@@ -1,2 +1,2 @@
 # TradInvest_FrontEnd
-projet de site d'investissement pour but de faciliter le trading, partie frontend
+projet de site d'investissement ayant pour objectif de faciliter le trading, partie frontend
